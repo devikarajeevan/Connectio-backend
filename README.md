@@ -17,6 +17,8 @@ Connectio was developed with a strong emphasis on user experience and accessibil
 - **Database**: SQLite
 - We have also used Gemini API and chainlit
 
+## Project Demo
+https://www.youtube.com/watch?v=lJBesu36r_I&t=102s
   
 ## Contributors
 - **K Govind**: https://github.com/Clasherzz
