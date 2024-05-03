@@ -15,7 +15,8 @@ Connectio was developed with a strong emphasis on user experience and accessibil
 - **Frontend**: React
 - **Backend**: Flask
 - **Database**: SQLite
-We have also used Gemini API and chainlit
+- We have also used Gemini API and chainlit
+
   
 ## Contributors
 - **K Govind**: https://github.com/Clasherzz
